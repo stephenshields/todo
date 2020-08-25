@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "todomvc-app-css": "^2.0.1",
+    "todomvc-common": "^1.0.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.1",
+    "jasmine-core": "^2.0.0"
+  },
+  "name": "p8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
