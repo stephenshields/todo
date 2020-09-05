@@ -11,3 +11,4 @@
   - Write technical documentation including the Preformance Analysis.
 
 ## Live app: http://todo.stephenshields.ie/
+## Documentation: https://github.com/stephenshields/todo/wiki
